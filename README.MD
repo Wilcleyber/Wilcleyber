@@ -1,0 +1,33 @@
+# 👋 Olá, sou Wilcleyber!
+
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**, e aqui compartilho meus projetos reais — criados com automação, prática e muito aprendizado!
+
+💡 Acredito que o melhor aprendizado vem de colocar a mão no código, testar, errar e ajustar até funcionar.  
+Este espaço é o reflexo da minha jornada como desenvolvedor em formação.
+
+---
+
+## 💻 Tecnologias
+Python | Tkinter | HTML | CSS | JavaScript | Node.js | API REST | PostgreSQL | SQLite
+
+---
+
+## 📂 Projetos Recentes
+
+### 🌦️ Previsão do Tempo  
+![Previsão do Tempo](./media/1.gif)  
+[🔗 Testar o projeto](https://wilcleyber.github.io/Previsao_do_Tempo-Frontend-/)
+
+### 📚 Bibliotech  
+![Bibliotech](./media/2.gif)  
+[🔗 Testar o projeto](https://wilcleyber.github.io/BiblioTech_Frontend/)
+
+---
+
+## ✉️ Contato
+[💼 LinkedIn](https://www.linkedin.com/in/wilcleyber/)  
+[📧 E-mail](mailto:wilcleyber2@gmail.com)
+
+---
+
+⭐ *“Aprender é transformar curiosidade em resultados.”*  
