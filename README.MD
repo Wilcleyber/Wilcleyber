@@ -14,6 +14,12 @@ Python | Tkinter | HTML | CSS | JavaScript | Node.js | API REST | PostgreSQL | S
 
 ## 📂 Projetos Recentes
 
+### 🧑‍💼 HRLite – Gestão de Colaboradores  
+![HRLite](./media/3.gif)  
+[🔗 Testar o projeto](https://wilcleyber.github.io/HRLite_Frontend/)
+
+> ⚠️ *Nota:* Ao abrir o sistema, pode levar alguns segundos para os dados aparecerem. Isso acontece porque a API está hospedada gratuitamente no Render e pode estar hibernando.
+
 ### 🌦️ Previsão do Tempo  
 ![Previsão do Tempo](./media/1.gif)  
 [🔗 Testar o projeto](https://wilcleyber.github.io/Previsao_do_Tempo-Frontend-/)
