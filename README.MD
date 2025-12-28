@@ -24,9 +24,11 @@ Python | Tkinter | HTML | CSS | JavaScript | Node.js | API REST | PostgreSQL | S
 ![Previsão do Tempo](./media/1.gif)  
 [🔗 Testar o projeto](https://wilcleyber.github.io/Previsao_do_Tempo-Frontend-/)
 
-### 📚 Bibliotech  
-![Bibliotech](./media/2.gif)  
-[🔗 Testar o projeto](https://wilcleyber.github.io/BiblioTech_Frontend/)
+### 📚 SmartBudget 
+![SmartBudget](./media/2.gif)  
+[🔗 Testar o projeto](https://wilcleyber.github.io/smartbudget-frontend/)
+
+⚠️ *Nota:* Ao abrir o sistema, pode levar alguns segundos para os dados aparecerem. Isso acontece porque a API está hospedada gratuitamente no Render e pode estar hibernando.
 
 ---
 
