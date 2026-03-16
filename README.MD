@@ -7,40 +7,35 @@
 
 ### 📂 Document-API: Full Stack File Management System
 ![Document API GIF](./media/1.gif)  
-[🔗 Testar Aplicação](https://teste-phi-eosin.vercel.app/) | [📁 Repositório Backend](https://github.com/Wilcleyber/Document-API-Frontend.git)
+[🔗 Testar Aplicação](https://teste-phi-eosin.vercel.app/) | [📁 Repositório Backend](https://github.com/Wilcleyber/Document-API-Backend.git) | [📁 Repositório Frontend](https://github.com/Wilcleyber/Document-API-Frontend.git)
 
 > **Tech Stack:** React (TypeScript), FastAPI (Python), PostgreSQL, JWT Auth, Vercel/Render.  
 > **Destaque:** Gestão de hierarquia de arquivos e editor de texto real-time com persistência.
 
 ### 🧑‍💼 HRLite – Dashboard de Gestão de Colaboradores
 ![HRLite](./media/3.gif)  
-[🔗 Testar Aplicação](https://wilcleyber.github.io/HRLite_Frontend/) | [📁 Repositório Backend](https://github.com/Wilcleyber/HRLite_Frontend.git)
+[🔗 Testar Aplicação](https://wilcleyber.github.io/HRLite_Frontend/) | [📁 Repositório Backend](https://github.com/Wilcleyber/HRLite_Backend.git) | [📁 Repositório Frontend](https://github.com/Wilcleyber/HRLite_Frontend.git)
+⚠️ *Nota:* Ao abrir o sistema, pode levar alguns segundos para os dados aparecerem. Isso acontece porque a API está hospedada gratuitamente no Render e pode estar hibernando.
 
 > **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), FastAPI, PostgreSQL.  
 > **Destaque:** Interface administrativa completa integrada a uma API REST robusta.
 
-### ⚡ Previsão do Tempo: Inteligência Climática com Consumo de API Real-time
-![Previsão do Tempo](./media/2.gif)  
-[🔗 Testar Aplicação](https://wilcleyber.github.io/Previsao_do_Tempo-Frontend-/) | [📁 Repositório Backend](https://github.com/Wilcleyber/Previsao_do_Tempo-Frontend-.git)
+# 📊 SmartReport: AI-Driven Data Analysis & Reporting
+![SmartReport](./media/2.gif)  
+[🔗 Testar o projeto](https://smart-report-lyart.vercel.app) | [📁 Repositório Backend](https://github.com/Wilcleyber/SmartReport.git) | [📁 Repositório Frontend](https://github.com/Wilcleyber/SmartReport_Frontend.git)
 
-<<<<<<< HEAD
-### 📚 SmartBudget 
-![SmartBudget](./media/2.gif)  
-[🔗 Testar o projeto](https://wilcleyber.github.io/smartbudget-frontend/)
-
-⚠️ *Nota:* Ao abrir o sistema, pode levar alguns segundos para os dados aparecerem. Isso acontece porque a API está hospedada gratuitamente no Render e pode estar hibernando.
-=======
-> **Tech Stack:** Node.js, Express, Axios, OpenWeather API.  
-> **Destaque:** Consumo eficiente de APIs externas e tratamento dinâmico de dados meteorológicos.
->>>>>>> 3367194 (Atualizado informações, e adicionado nosso mais novo projeto!)
+> **Tech Stack:** React (Vite/TS), Tailwind CSS, FastAPI, Pandas, Llama-3 (Groq API), ReportLab.
+> **Destaque:** Automatização total do fluxo de dados: desde o upload de planilhas e análise preditiva via IA até a exportação de relatórios profissionais em PDF multi-página.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 * **Linguagens:** Python, TypeScript, JavaScript (ES6+).
-* **Frameworks/Libs:** React, FastAPI, Node.js, Express.
+* **Análise de Dados:** Pandas, NumPy, Matplotlib (Visualização).
+* **IA & Automação:** Integração de LLMs (Groq/Llama-3/OpenAI), Engenharia de Prompt.
+* **Frameworks/Libs:** React, FastAPI, Node.js, Express, Tailwind CSS.
 * **Banco de Dados:** PostgreSQL (Relacional).
-* **Outros:** Docker, Git/GitHub, Metodologias Ágeis, Integração de LLMs.
+* **DevOps & Ferramentas:** Git/GitHub, Docker, Deploy (Vercel/Render).
 
 ## ✉️ Contato
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilcleyber2@gmail.com)
