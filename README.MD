@@ -9,7 +9,7 @@ Sou um entusiasta de eficiência focado em transformar lógica complexa em solu�
 📂 **Projetos em Destaque**
 
 # 💎 Lumière: Gestão de Elite para Estética & Bem-Estar
-![Lumière Demo](./media/1.gif)  
+![Lumière Demo](./media/Lumiere.gif)  
 [🔗 Testar Aplicação](https://lumiere-ten-vert.vercel.app/login) | [📁 Repositório do Projeto](https://github.com/Wilcleyber/Lumiere.git)
 
 > **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Supabase (Auth & DB), Server Actions.
