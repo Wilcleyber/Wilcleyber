@@ -8,12 +8,12 @@ Sou um entusiasta de eficiência focado em transformar lógica complexa em solu�
 
 📂 **Projetos em Destaque**
 
-# 💎 Lumière: Gestão de Elite para Estética & Bem-Estar
-![Lumière Demo](./media/Lumiere.gif)  
-[🔗 Testar Aplicação](https://lumiere-ten-vert.vercel.app/login) | [📁 Repositório do Projeto](https://github.com/Wilcleyber/Lumiere.git)
+# 💎 Lumière: Gestão para Estética & Bem-Estar
+![Lumière Demo](./media/Lumière.gif  
+[🔗 Testar Aplicação](https://lumiere-ten-vert.vercel.app) | [📁 Repositório do Projeto](https://github.com/Wilcleyber/Lumiere.git)
 
-> **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Supabase (Auth & DB), Server Actions.
-> **Destaque:** Sistema SaaS completo com foco em UI/UX de luxo. Implementação de fluxos complexos de agendamentos, dashboards dinâmicos e arquitetura moderna que elimina a necessidade de um backend separado via Server Actions.
+> **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS (Luxury Edition), Supabase (Real-time DB & Auth), Google Gemini AI.
+> **Destaque:** Ecossistema AI-First projetado para o mercado de estética. O Lumière elimina a carga cognitiva do gestor através de uma arquitetura Serverless, unificando agendamentos, dashboards financeiros e uma camada de IA que atua como um CFO virtual.
 
 # 🛡️ RAC's-IA: Assistente Inteligente de Segurança Operacional (RAG)
 ![RAC's-IA](./media/3.gif) 
