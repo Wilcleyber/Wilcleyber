@@ -1,43 +1,45 @@
-# 👋 Olá, sou Wilcleyber (Wil)!
+👋 Olá, sou Wilcleyber (Wil)!
 
-🚀 **Desenvolvedor Full Stack | Estagiário de Tecnologia na Vale S.A. | Estudante de ADS (Uninassau)**
+🚀 Desenvolvedor Full Stack | Estagiário de Tecnologia na Vale S.A. | Estudante de ADS (Uninassau)
 
-Sou um entusiasta de eficiência focado em transformar lógica complexa em soluções inteligentes e interfaces fluidas. Apaixonado por IA's, integro LLMs e arquiteturas RAG para criar aplicações que realmente impactam a produtividade e a gestão operacional.
+Especialista em transformar lógica complexa em soluções de alto valor. Integro LLMs e arquiteturas RAG para criar aplicações que não apenas automatizam tarefas, mas geram inteligência operacional e conversão real de negócios.
 
----
+📂 Projetos em Destaque
+# ✨ Lumière Agentbot: Sua Clínica Nunca Fecha
+![Lumière Agentbot](./media/Lumiere_Agentbot.gif) 
+[🔗 Testar Agente Virtual (Vercel)](https://lumiere-agentbot.vercel.app/) | []📊 Ver no Dashboard Lumière](https://lumiere-ten-vert.vercel.app) | [📁 Repositório](https://github.com/Wilcleyber/lumiere_agentbot.git)
 
-📂 **Projetos em Destaque**
+> **Tech Stack:** Next.js 14, TypeScript, Vercel AI SDK, Groq (Llama-3), Supabase (PostgreSQL), Tailwind CSS.
+> **Destaque:** Agente autônoma 24/7 que converte linguagem natural em agendamentos reais. Utiliza Prompt Engineering avançado para extração de intenções em JSON, validando horários diretamente no banco de dados e garantindo persistência via Cron Jobs para evitar hibernação de serviços gratuitos.
 
-# 💎 Lumière: Gestão para Estética & Bem-Estar
+# 💎 Lumière: Ecossistema de Gestão Estética
 ![Lumière Demo](./media/Lumière.gif)  
 [🔗 Testar Aplicação](https://lumiere-ten-vert.vercel.app) | [📁 Repositório do Projeto](https://github.com/Wilcleyber/Lumiere.git)
 
 > **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS (Luxury Edition), Supabase (Real-time DB & Auth), Google Gemini AI.
-> **Destaque:** Ecossistema AI-First projetado para o mercado de estética. O Lumière elimina a carga cognitiva do gestor através de uma arquitetura Serverless, unificando agendamentos, dashboards financeiros e uma camada de IA que atua como um CFO virtual.
+> **Destaque:** O "Cérebro" da operação. Unifica agendamentos feitos via bot ou manual em um Dashboard Real-time. Projetado com foco em UX de luxo, oferece controle financeiro completo e gestão de serviços com atualização instantânea de slots.
 
-# 🛡️ RAC's-IA: Assistente Inteligente de Segurança Operacional (RAG)
-![RAC's-IA](./media/3.gif) 
-[🔗 Testar Aplicação](https://rac-ia.vercel.app/) | [📁 Repositório Backend](https://github.com/Wilcleyber/RAC-s_IA_Backend.git) | [📁 Repositório Frontend](https://github.com/Wilcleyber/RAC-s_IA_Frontend.git)
 
-> **Tech Stack:** React (TypeScript), FastAPI (Python), ChromaDB (Vector DB), Llama-3 (Groq API), HuggingFace (Embeddings), Web Speech API.
-> **Destaque:** Implementação avançada de RAG (Retrieval-Augmented Generation) para consulta de normas técnicas. Possui interface por voz e orquestração de APIs externas para garantir respostas em milissegundos.
-
-# 📊 SmartReport: AI-Driven Data Analysis & Reporting
+# 📊 SmartReport: AI-Driven Analytics
 ![SmartReport](./media/2.gif)  
 [🔗 Testar o projeto](https://smart-report-lyart.vercel.app) | [📁 Repositório Backend](https://github.com/Wilcleyber/SmartReport.git) | [📁 Repositório Frontend](https://github.com/Wilcleyber/SmartReport_Frontend.git)
 
-> **Tech Stack:** React (Vite/TS), Tailwind CSS, FastAPI, Pandas, Llama-3 (Groq API), ReportLab.
-> **Destaque:** Automatização total do fluxo de dados: desde o upload de planilhas e análise preditiva via IA até a exportação de relatórios profissionais em PDF multi-página.
+> **Tech Stack:** FastAPI (Python), React, Llama-3, Pandas, ReportLab.
+> **Destaque:** Pipeline completo de dados: Upload de CSV -> Análise Preditiva via IA -> Geração de Relatórios Executivos em PDF.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+🛠️ Stack Tecnológica (Foco em Performance)
 
-* **Linguagens:** Python, TypeScript, JavaScript (ES6+), SQL.
-* **Modern Full Stack:** Next.js 15, React, FastAPI, Node.js, Server Actions.
-* **IA & Engenharia de Dados:** Arquitetura RAG, Bancos Vetoriais (ChromaDB), Integração de LLMs (Groq/Llama-3/OpenAI), Prompt Engineering.
-* **Cloud & Infra:** Supabase (BaaS), PostgreSQL, Docker, Git/GitHub, Deploy (Vercel/Render).
-* **Design:** Tailwind CSS, Design Systems, UI/UX focado em performance.
+    Linguagens & Core: TypeScript, Python, SQL, JavaScript (ES6+).
+
+    Frontend & UI: Next.js 14/15, React, Tailwind CSS, Shadcn/UI (Design Systems).
+
+    Backend & Infra: FastAPI, Node.js, Supabase (BaaS), PostgreSQL.
+
+    AI & Data: Vercel AI SDK, LangChain, Engenharia de Prompt, Llama-3, Gemini Pro.
+
+    DevOps: Vercel (CI/CD), Git/GitHub, Docker, Cron Jobs.
 
 ## ✉️ Contato
 
