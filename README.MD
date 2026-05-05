@@ -19,14 +19,6 @@ Especialista em transformar lógica complexa em soluções de alto valor. Integr
 > **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS (Luxury Edition), Supabase (Real-time DB & Auth), Google Gemini AI.
 > **Destaque:** O "Cérebro" da operação. Unifica agendamentos feitos via bot ou manual em um Dashboard Real-time. Projetado com foco em UX de luxo, oferece controle financeiro completo e gestão de serviços com atualização instantânea de slots.
 
-
-# 📊 SmartReport: AI-Driven Analytics
-![SmartReport](./media/2.gif)  
-[🔗 Testar o projeto](https://smart-report-lyart.vercel.app) | [📁 Repositório Backend](https://github.com/Wilcleyber/SmartReport.git) | [📁 Repositório Frontend](https://github.com/Wilcleyber/SmartReport_Frontend.git)
-
-> **Tech Stack:** FastAPI (Python), React, Llama-3, Pandas, ReportLab.
-> **Destaque:** Pipeline completo de dados: Upload de CSV -> Análise Preditiva via IA -> Geração de Relatórios Executivos em PDF.
-
 ---
 
 🛠️ Stack Tecnológica (Foco em Performance)
@@ -44,4 +36,4 @@ Especialista em transformar lógica complexa em soluções de alto valor. Integr
 ## ✉️ Contato
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilcleyber2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilcleyber-oliveira-11000b21a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilcleyber/)
