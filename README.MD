@@ -7,7 +7,7 @@ Especialista em transformar lógica complexa em soluções de alto valor. Integr
 📂 Projetos em Destaque
 # ✨ Lumière Agentbot: Sua Clínica Nunca Fecha
 ![Lumière Agentbot](./media/Lumiere_Agentbot.gif) 
-[🔗 Testar Agente Virtual (Vercel)](https://lumiere-agentbot.vercel.app/) | []📊 Ver no Dashboard Lumière](https://lumiere-ten-vert.vercel.app) | [📁 Repositório](https://github.com/Wilcleyber/lumiere_agentbot.git)
+[🔗 Testar Agente Virtual (Vercel)](https://lumiere-agentbot.vercel.app/) | [📊 Ver no Dashboard Lumière](https://lumiere-ten-vert.vercel.app) | [📁 Repositório](https://github.com/Wilcleyber/lumiere_agentbot.git)
 
 > **Tech Stack:** Next.js 14, TypeScript, Vercel AI SDK, Groq (Llama-3), Supabase (PostgreSQL), Tailwind CSS.
 > **Destaque:** Agente autônoma 24/7 que converte linguagem natural em agendamentos reais. Utiliza Prompt Engineering avançado para extração de intenções em JSON, validando horários diretamente no banco de dados e garantindo persistência via Cron Jobs para evitar hibernação de serviços gratuitos.
