@@ -1,37 +1,59 @@
-👋 Olá, sou Wilcleyber (Wil)!
+👋 Wilcleyber (Wil)
+🚀 Backend & AI Developer (Junior)
 
-🚀 Desenvolvedor Full Stack | Estagiário de Tecnologia na Vale S.A. | Estudante de ADS (Uninassau)
-
-Especialista em transformar lógica complexa em soluções de alto valor. Integro LLMs e arquiteturas RAG para criar aplicações que não apenas automatizam tarefas, mas geram inteligência operacional e conversão real de negócios.
+Construo sistemas onde linguagem natural vira ação real — agendamentos, automações e decisões de negócio.
 
 📂 Projetos em Destaque
-# ✨ Lumière Agentbot: Sua Clínica Nunca Fecha
+# ✨ Lumière Agentbot: Sua Clínica Nunca Fecha!
 ![Lumière Agentbot](./media/Lumiere_Agentbot.gif) 
 [🔗 Testar Agente Virtual (Vercel)](https://lumiere-agentbot.vercel.app/) | [📊 Ver no Dashboard Lumière](https://lumiere-ten-vert.vercel.app) | [📁 Repositório](https://github.com/Wilcleyber/lumiere_agentbot.git)
 
-> **Tech Stack:** Next.js 14, TypeScript, Vercel AI SDK, Groq (Llama-3), Supabase (PostgreSQL), Tailwind CSS.
-> **Destaque:** Agente autônoma 24/7 que converte linguagem natural em agendamentos reais. Utiliza Prompt Engineering avançado para extração de intenções em JSON, validando horários diretamente no banco de dados e garantindo persistência via Cron Jobs para evitar hibernação de serviços gratuitos.
+💡 O que isso resolve?
+
+Um agente de IA que atende clientes, entende linguagem natural e converte conversas em agendamentos reais automaticamente.
+
+🧠 Como funciona (diferencial técnico)
+LLM usado como interpretador de intenção (extração semântica estruturada em JSON)
+Controle de estado via backend (fluxo por etapas: serviço → horário → dados → confirmação)
+Prompts dinâmicos por fase → redução significativa de tokens (~60–80% vs abordagem com JSON completo por requisição)
+Coleta progressiva de dados → preenchimento automático de formulário
+Validação em tempo real com banco (slots disponíveis)
+
+🏗️ Arquitetura (simplificada)
+
+Cliente → LLM (interpretação) → Backend (regra de negócio) → Banco → Dashboard (Realtime)
+
+⚙️ Stack
+
+Next.js, TypeScript, Node.js, Vercel AI SDK, Llama 3 (Groq), Supabase (PostgreSQL)
 
 # 💎 Lumière: Ecossistema de Gestão Estética
 ![Lumière Demo](./media/Lumière.gif)  
 [🔗 Testar Aplicação](https://lumiere-ten-vert.vercel.app) | [📁 Repositório do Projeto](https://github.com/Wilcleyber/Lumiere.git)
 
-> **Tech Stack:** Next.js 15 (App Router), TypeScript, Tailwind CSS (Luxury Edition), Supabase (Real-time DB & Auth), Google Gemini AI.
-> **Destaque:** O "Cérebro" da operação. Unifica agendamentos feitos via bot ou manual em um Dashboard Real-time. Projetado com foco em UX de luxo, oferece controle financeiro completo e gestão de serviços com atualização instantânea de slots.
+Sistema de gestão pensado para escalar múltiplas clínicas com contextos independentes.
 
----
+💡 O que isso resolve?
 
-🛠️ Stack Tecnológica (Foco em Performance)
+Centraliza e gerencia todos os agendamentos (automáticos via IA ou manuais) em tempo real.
 
-    Linguagens & Core: TypeScript, Python, SQL, JavaScript (ES6+).
+🧠 Diferencial técnico
+Arquitetura multi-tenant (cada clínica possui seus próprios dados: clientes, serviços, agenda e financeiro)
+Integração direta com agente de IA (o bot se adapta ao contexto da clínica logada)
+Atualização em tempo real (Realtime DB)
+Base preparada para escalar para múltiplos negócios simultaneamente
+🛠️ Stack (Visão rápida)
 
-    Frontend & UI: Next.js 14/15, React, Tailwind CSS, Shadcn/UI (Design Systems).
+Backend: Node.js, FastAPI, PostgreSQL
+Frontend: Next.js, React, TypeScript
+IA: LLMs (Llama 3, Gemini), Vercel AI SDK
+Infra: Supabase, Docker, Vercel
 
-    Backend & Infra: FastAPI, Node.js, Supabase (BaaS), PostgreSQL.
+📌 Sobre mim
 
-    AI & Data: Vercel AI SDK, LangChain, Engenharia de Prompt, Llama-3, Gemini Pro.
+Estagiário na Vale S.A., atuando com dados e automação.
 
-    DevOps: Vercel (CI/CD), Git/GitHub, Docker, Cron Jobs.
+Focado em migrar para engenharia de software com ênfase em backend e IA aplicada.
 
 ## ✉️ Contato
 
